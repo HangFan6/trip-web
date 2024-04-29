@@ -1,26 +1,46 @@
 # 旅游网站开发
 ## 结果展示
 ### 1.首页界面
-![alt text](img/image-1.png)
+<img src='img/image-1.png' width='200px'/>
+<!-- ![alt text](img/image-1.png) -->
+
 ### 2.搜索页面（所有景点）
-![alt text](img/image-2.png)
+<img src='img/image-2.png' width='200px'/>
+<!-- ![alt text](img/image-2.png) -->
+
 ### 3.按分类查看景点（热门/精选）
-![alt text](img/image-3.png)
-![alt text](img/image-4.png)
+<img src='img/image-3.png' width='200px'/>
+<img src='img/image-4.png' width='200px'/>
+<!-- ![alt text](img/image-3.png)
+![alt text](img/image-4.png) -->
+
 ### 4.景点详情
-![alt text](img/image-5.png)
-![alt text](img/image-8.png)
+<img src='img/image-5.png' width='200px'/>
+<img src='img/image-8.png' width='200px'/>
+<!-- ![alt text](img/image-5.png)
+![alt text](img/image-8.png) -->
+
 ### 5.景点评论及图片预览
-![alt text](img/image-6.png)
-![alt text](img/image-7.png)
+<img src='img/image-6.png' width='200px'/>
+<img src='img/image-7.png' width='200px'/>
+<!-- ![alt text](img/image-6.png)
+![alt text](img/image-7.png) -->
+
 ### 6.用户登录及注册
-![alt text](img/image-9.png)
+<img src='img/image-9.png' width='200px'/>
+<!-- ![alt text](img/image-9.png) -->
+
 ### 7.个人中心
-![alt text](img/image-10.png)
-![alt text](img/image-11.png)
+<img src='img/image-10.png' width='200px'/>
+<img src='img/image-11.png' width='200px'/>
+<!-- ![alt text](img/image-10.png)
+![alt text](img/image-11.png) -->
+
 ### 8.门票下单
-![alt text](img/image-13.png)
-![alt text](img/image-15.png)
+<img src='img/image-13.png' width='200px'/>
+<img src='img/image-15.png' width='200px'/>
+<!-- ![alt text](img/image-13.png)
+![alt text](img/image-15.png) -->
 
 ### 1.1、前端组件开发
 - 轮播图组件开发：
