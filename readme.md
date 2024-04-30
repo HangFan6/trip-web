@@ -28,6 +28,7 @@
 
 ### 6.用户登录及注册
 <img src='img/image-9.png' width='200px'/>
+<img src='img/image-14.png' width='200px'/>
 <!-- ![alt text](img/image-9.png) -->
 
 ### 7.个人中心
