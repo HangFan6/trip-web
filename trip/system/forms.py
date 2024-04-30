@@ -37,12 +37,12 @@ class SendSmsCodeForm(forms.Form):
             # key = 'sms_code_{}'.format(phone_num)
             key = '{}{}'.format(constants.REGISTER_SMS_CODE_KEY, phone_num)
             # 将验证码存入Redis
-            timeout = 5 * 60
+            timeout = 1 * 60
             cache.set(key, sms_code, timeout=timeout)
             return {
                 'phone_num': phone_num,
                 'sms_code': sms_code,
-                'time_out': timeout
+                'timeout': timeout
             }
         except Exception as e:
             print(e)
